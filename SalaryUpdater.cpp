@@ -15,9 +15,7 @@ int main()
 	double currentPay, payIncrease, newPay;
 	double totalCurrentPay = 0, totalNewPay = 0;
 
-	//inData.open("C:\\Users\\antca\\OneDrive\\Documents\\School\\Fall 2023\\CIS 022 - C++\\Labs\\Lab 1\\Programing Exercises\\L1-3\\L1-3DATA.txt");
-	//outData.open("C:\\Users\\antca\\OneDrive\\Documents\\School\\Fall 2023\\CIS 022 - C++\\Labs\\Lab 1\\Programing Exercises\\L1-3\\L1-3DATA.dat");
-
+	//Open the files
 	inData.open("L1-3DATA.txt");
 	outData.open("L1-3DATA.dat");
 
