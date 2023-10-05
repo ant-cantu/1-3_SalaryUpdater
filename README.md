@@ -4,7 +4,10 @@
 
 This is a project I made for my computer programming class using C++.
 This project was created within the first few weeks of my class and
-is very simple and follows exactly what my professor wanted. 
+is very simple and follows exactly what my professor wanted. I am
+limited on the techniques I can use based on what we have covered
+in our class textbook.
+
 The application reads a file, manipulates the data,
 and outputs the data to another file.
 
