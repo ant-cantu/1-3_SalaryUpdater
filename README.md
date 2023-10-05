@@ -1,6 +1,6 @@
-# Price Mark Up
+# Salary Updater
 
-## About Price Mark Up
+## About Salary Updater
 
 This is a project I made for my computer programming class using C++.
 This project was created within the first few weeks of my class and
@@ -23,7 +23,7 @@ and outputs the data to another file.
 This is a standalone application, no installation is required.
 
 1. Download the file
-> [Click to Download](https://github.com/ant-cantu/PriceMarkUp/blob/main/L1-2.exe)
+> [Click to Download](https://github.com/ant-cantu/SalaryUpdater/blob/main/L1-3.exe)
 
 2. Run the application.
 3. Make sure the L1-3DATA.txt file is in the same location as the executable.
